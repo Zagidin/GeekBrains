@@ -16,4 +16,4 @@ except:
     print("Вы ввели чтото не понятное!")
 
 
-Ссылка на GitHub: 
+Ссылка на GitHub: https://github.com/Zagidin/GeekBrains
